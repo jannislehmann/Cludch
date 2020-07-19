@@ -1,4 +1,9 @@
-# Hi there :wave:
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Cludch&show_icons=true">
 
-My name is Jannis and I am a young student who does some developing in his freetime.
+### Hi there I'm Jannis :wave:
 
+[![cludch.net](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://cludch.net/)
+  
+  
+🌱 **Currently Learning:** GraphQL, Golang and Kubernetes
+🚧 **Current Project:** Something with Go - mostly experimenting, yet.
