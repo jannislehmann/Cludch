@@ -2,7 +2,7 @@
 
 ### Hi there I'm Jannis :wave:
 
-[![cludch.net](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://cludch.net/)
+[![cludch.net](https://img.shields.io/static/v1?label=cludch.net&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://cludch.net/)
   
   
 🌱 **Currently Learning:** GraphQL, Golang and Kubernetes
